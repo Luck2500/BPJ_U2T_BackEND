@@ -1,0 +1,1201 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\00800cbc-c6d9-407b-8537-8fccadc549de.jpg",
+      "PackagePath": "staticwebassets\\images\\00800cbc-c6d9-407b-8537-8fccadc549de.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\03c3ac41-149f-4c04-9614-33998b427390.jpg",
+      "PackagePath": "staticwebassets\\images\\03c3ac41-149f-4c04-9614-33998b427390.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\05497082-3988-4d15-8695-80a703bc5128.png",
+      "PackagePath": "staticwebassets\\images\\05497082-3988-4d15-8695-80a703bc5128.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\05ee1ddd-0c31-46ca-9876-498866931d5e.jpg",
+      "PackagePath": "staticwebassets\\images\\05ee1ddd-0c31-46ca-9876-498866931d5e.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\07b4336c-049a-4161-999a-1b63ef117f75.jpg",
+      "PackagePath": "staticwebassets\\images\\07b4336c-049a-4161-999a-1b63ef117f75.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\0acc72d5-e3e5-4979-bbce-cb4609e07fbc.jpg",
+      "PackagePath": "staticwebassets\\images\\0acc72d5-e3e5-4979-bbce-cb4609e07fbc.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\0bb9f6cd-4d1b-4f7e-8673-83a7a45c8eea.jpg",
+      "PackagePath": "staticwebassets\\images\\0bb9f6cd-4d1b-4f7e-8673-83a7a45c8eea.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\0bc481e9-6c0a-4cf3-b7c1-cbcfc071c148.jpg",
+      "PackagePath": "staticwebassets\\images\\0bc481e9-6c0a-4cf3-b7c1-cbcfc071c148.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\0d4b4a45-ef6f-461c-8e3f-fdfd921b6b19.jpg",
+      "PackagePath": "staticwebassets\\images\\0d4b4a45-ef6f-461c-8e3f-fdfd921b6b19.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\0d60b463-d403-442b-9f04-545d0d4d7681.jpg",
+      "PackagePath": "staticwebassets\\images\\0d60b463-d403-442b-9f04-545d0d4d7681.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\0daa0b80-816a-46c6-bde1-b97080751106.jpg",
+      "PackagePath": "staticwebassets\\images\\0daa0b80-816a-46c6-bde1-b97080751106.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\0dbd2062-ba53-4511-ba96-3b93dd7d2c2b.jpg",
+      "PackagePath": "staticwebassets\\images\\0dbd2062-ba53-4511-ba96-3b93dd7d2c2b.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\0fbff40d-b1fb-4d83-9553-8b984755795c.jpg",
+      "PackagePath": "staticwebassets\\images\\0fbff40d-b1fb-4d83-9553-8b984755795c.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\0ff5b1e5-8208-4a4a-896f-a7b604e0421f.png",
+      "PackagePath": "staticwebassets\\images\\0ff5b1e5-8208-4a4a-896f-a7b604e0421f.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\1109b758-4b82-4d7a-8a35-1ee90a274019.jpg",
+      "PackagePath": "staticwebassets\\images\\1109b758-4b82-4d7a-8a35-1ee90a274019.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\1245e7ea-2cfa-4171-8f46-2be86c9dc473.jpg",
+      "PackagePath": "staticwebassets\\images\\1245e7ea-2cfa-4171-8f46-2be86c9dc473.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\1476bb92-fa56-41ba-8011-f29cdf90c270.png",
+      "PackagePath": "staticwebassets\\images\\1476bb92-fa56-41ba-8011-f29cdf90c270.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\148f9b7c-a1f0-488b-b063-ff1e0b574b86.jpg",
+      "PackagePath": "staticwebassets\\images\\148f9b7c-a1f0-488b-b063-ff1e0b574b86.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\156e5bd3-1533-4bad-901d-ea3dacd2ef70.jpg",
+      "PackagePath": "staticwebassets\\images\\156e5bd3-1533-4bad-901d-ea3dacd2ef70.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\1889b385-13b5-44a3-b642-ed9a06cf22f9.jpg",
+      "PackagePath": "staticwebassets\\images\\1889b385-13b5-44a3-b642-ed9a06cf22f9.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\188c1695-f80f-4850-bb30-eb4147f7eab1.jpg",
+      "PackagePath": "staticwebassets\\images\\188c1695-f80f-4850-bb30-eb4147f7eab1.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\19656b8d-2c00-4152-80df-0f518cc21171.jpg",
+      "PackagePath": "staticwebassets\\images\\19656b8d-2c00-4152-80df-0f518cc21171.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\196ad070-c79c-405f-91c3-5ebb7fef87a6.png",
+      "PackagePath": "staticwebassets\\images\\196ad070-c79c-405f-91c3-5ebb7fef87a6.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\19a95ea1-4f52-42b3-b910-bea9a4b08417.jpg",
+      "PackagePath": "staticwebassets\\images\\19a95ea1-4f52-42b3-b910-bea9a4b08417.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\1aa5606a-fdaa-4b3f-b53f-6cece117f398.jpg",
+      "PackagePath": "staticwebassets\\images\\1aa5606a-fdaa-4b3f-b53f-6cece117f398.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\1aafc8ff-1c29-4135-945d-068b3b3d62c9.jpg",
+      "PackagePath": "staticwebassets\\images\\1aafc8ff-1c29-4135-945d-068b3b3d62c9.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\1af1edb2-c4ff-4148-be78-c8aabe0a876f.jpg",
+      "PackagePath": "staticwebassets\\images\\1af1edb2-c4ff-4148-be78-c8aabe0a876f.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\1c48afd0-8ad9-401f-ab89-b1e3b7760a00.jpg",
+      "PackagePath": "staticwebassets\\images\\1c48afd0-8ad9-401f-ab89-b1e3b7760a00.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\1cbf5e6b-9c1b-4df0-a98e-744c5a322e0c.jpg",
+      "PackagePath": "staticwebassets\\images\\1cbf5e6b-9c1b-4df0-a98e-744c5a322e0c.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\1d216d4b-a64f-4690-9959-fa1917702a75.jpg",
+      "PackagePath": "staticwebassets\\images\\1d216d4b-a64f-4690-9959-fa1917702a75.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\1e7f3bf5-dc81-49f3-bb0b-43e08016422c.jpg",
+      "PackagePath": "staticwebassets\\images\\1e7f3bf5-dc81-49f3-bb0b-43e08016422c.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\1f367779-2ce9-49d3-8420-39e76be8597e.jpg",
+      "PackagePath": "staticwebassets\\images\\1f367779-2ce9-49d3-8420-39e76be8597e.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\1f53afde-b3fa-415d-8cb2-149d8956dbb2.png",
+      "PackagePath": "staticwebassets\\images\\1f53afde-b3fa-415d-8cb2-149d8956dbb2.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\2000981f-e36c-43d6-8933-f00baa8d4ded.png",
+      "PackagePath": "staticwebassets\\images\\2000981f-e36c-43d6-8933-f00baa8d4ded.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\203d658f-2f3b-4a58-8395-58f42576b9a4.jpg",
+      "PackagePath": "staticwebassets\\images\\203d658f-2f3b-4a58-8395-58f42576b9a4.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\206bd3a1-bc75-46b4-ac49-adaf9d91aa23.png",
+      "PackagePath": "staticwebassets\\images\\206bd3a1-bc75-46b4-ac49-adaf9d91aa23.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\20ac9562-dd58-4f75-8df8-e8bfdee72a8f.jpg",
+      "PackagePath": "staticwebassets\\images\\20ac9562-dd58-4f75-8df8-e8bfdee72a8f.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\20cb5640-683f-407a-aeb2-b5851be6f111.png",
+      "PackagePath": "staticwebassets\\images\\20cb5640-683f-407a-aeb2-b5851be6f111.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\2185b490-f428-4268-bc71-036205c2e0cb.jpg",
+      "PackagePath": "staticwebassets\\images\\2185b490-f428-4268-bc71-036205c2e0cb.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\21ae81c1-5ba3-4ce1-87cf-c0a15f8a51a9.jpg",
+      "PackagePath": "staticwebassets\\images\\21ae81c1-5ba3-4ce1-87cf-c0a15f8a51a9.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\22ce2338-c100-4c49-880e-cb6a468c073e.jpg",
+      "PackagePath": "staticwebassets\\images\\22ce2338-c100-4c49-880e-cb6a468c073e.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\243b6629-8335-48b0-8c3a-d89bd0d85f68.jpg",
+      "PackagePath": "staticwebassets\\images\\243b6629-8335-48b0-8c3a-d89bd0d85f68.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\245f77fc-9cfd-4f60-9ca9-a5cb49ddf4b3.jpg",
+      "PackagePath": "staticwebassets\\images\\245f77fc-9cfd-4f60-9ca9-a5cb49ddf4b3.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\246c1120-db45-45ae-aee0-78a1ef979e9d.jpg",
+      "PackagePath": "staticwebassets\\images\\246c1120-db45-45ae-aee0-78a1ef979e9d.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\24aecd36-3106-4840-8f52-68e4d4ec73fb.jpg",
+      "PackagePath": "staticwebassets\\images\\24aecd36-3106-4840-8f52-68e4d4ec73fb.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\24c26c34-253f-407b-b41b-2b5c0525765a.jpg",
+      "PackagePath": "staticwebassets\\images\\24c26c34-253f-407b-b41b-2b5c0525765a.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\254a05ee-0d83-47bc-8a5f-fde10cd6ccbf.jpg",
+      "PackagePath": "staticwebassets\\images\\254a05ee-0d83-47bc-8a5f-fde10cd6ccbf.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\26525f27-e20d-4e66-b398-f044ac49160e.jpg",
+      "PackagePath": "staticwebassets\\images\\26525f27-e20d-4e66-b398-f044ac49160e.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\26b2af7c-a084-4675-8e45-3e86e4915e8b.jpg",
+      "PackagePath": "staticwebassets\\images\\26b2af7c-a084-4675-8e45-3e86e4915e8b.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\26bfbf22-94a3-43a4-a1b6-25caba48e657.jpg",
+      "PackagePath": "staticwebassets\\images\\26bfbf22-94a3-43a4-a1b6-25caba48e657.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\288360f6-c8a9-468f-b549-e155e9ca9c01.jpg",
+      "PackagePath": "staticwebassets\\images\\288360f6-c8a9-468f-b549-e155e9ca9c01.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\29ecf1a1-4d74-41be-8aad-959fe41ff88f.jpg",
+      "PackagePath": "staticwebassets\\images\\29ecf1a1-4d74-41be-8aad-959fe41ff88f.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\2dde6532-379f-44bc-81d8-8f31239c1943.jpg",
+      "PackagePath": "staticwebassets\\images\\2dde6532-379f-44bc-81d8-8f31239c1943.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\2e7e353a-d169-436f-adc0-f2531c379c13.jpg",
+      "PackagePath": "staticwebassets\\images\\2e7e353a-d169-436f-adc0-f2531c379c13.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\2ea29212-0883-478d-8e22-3b5d7dc13e05.jpg",
+      "PackagePath": "staticwebassets\\images\\2ea29212-0883-478d-8e22-3b5d7dc13e05.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\30142330-7e86-4a38-b21c-f36bac8fb227.jpg",
+      "PackagePath": "staticwebassets\\images\\30142330-7e86-4a38-b21c-f36bac8fb227.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\311cf1b9-fdbd-4b21-b077-bfcea5b1fbee.png",
+      "PackagePath": "staticwebassets\\images\\311cf1b9-fdbd-4b21-b077-bfcea5b1fbee.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\314b0c15-7288-4ed1-aa90-efddd2962a78.jpg",
+      "PackagePath": "staticwebassets\\images\\314b0c15-7288-4ed1-aa90-efddd2962a78.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\3269c681-5e26-4eb9-aa3f-0abe4f4abfcc.jpg",
+      "PackagePath": "staticwebassets\\images\\3269c681-5e26-4eb9-aa3f-0abe4f4abfcc.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\35cc9877-f22b-4ecc-82b1-d4b1a49e6663.jpg",
+      "PackagePath": "staticwebassets\\images\\35cc9877-f22b-4ecc-82b1-d4b1a49e6663.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\368bed1e-8a0e-48ec-b0a7-d593936199fb.jpg",
+      "PackagePath": "staticwebassets\\images\\368bed1e-8a0e-48ec-b0a7-d593936199fb.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\36e7223d-0b18-44a9-b92e-ce63bbd18ae9.jpg",
+      "PackagePath": "staticwebassets\\images\\36e7223d-0b18-44a9-b92e-ce63bbd18ae9.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\38a56f3e-0b51-4d8c-8da6-10cf44fbf355.jpg",
+      "PackagePath": "staticwebassets\\images\\38a56f3e-0b51-4d8c-8da6-10cf44fbf355.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\3a8ed35d-cb13-47eb-88ef-5b3ec06226ae.png",
+      "PackagePath": "staticwebassets\\images\\3a8ed35d-cb13-47eb-88ef-5b3ec06226ae.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\3d3b975b-727d-4b11-9076-d256d527421f.jpg",
+      "PackagePath": "staticwebassets\\images\\3d3b975b-727d-4b11-9076-d256d527421f.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\3d44470b-356b-4894-86cd-90136b9c4e3b.jpg",
+      "PackagePath": "staticwebassets\\images\\3d44470b-356b-4894-86cd-90136b9c4e3b.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\3da73dc7-d0fb-44af-8eaf-858c1573945d.jpg",
+      "PackagePath": "staticwebassets\\images\\3da73dc7-d0fb-44af-8eaf-858c1573945d.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\3f470e99-05ee-43af-9767-0ff8057f2388.jpg",
+      "PackagePath": "staticwebassets\\images\\3f470e99-05ee-43af-9767-0ff8057f2388.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\40424947-a993-4c8f-ac05-f701955dd2b8.png",
+      "PackagePath": "staticwebassets\\images\\40424947-a993-4c8f-ac05-f701955dd2b8.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\406e6dc3-d845-40f7-a586-fa0089350f52.jpg",
+      "PackagePath": "staticwebassets\\images\\406e6dc3-d845-40f7-a586-fa0089350f52.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\40bb8043-dda7-4903-9ffc-371c78fbda3e.jpg",
+      "PackagePath": "staticwebassets\\images\\40bb8043-dda7-4903-9ffc-371c78fbda3e.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\411ff57b-7741-476d-a423-49127481ba5e.png",
+      "PackagePath": "staticwebassets\\images\\411ff57b-7741-476d-a423-49127481ba5e.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\41a070cf-083d-4c0d-bb35-0919136bbd7b.jpg",
+      "PackagePath": "staticwebassets\\images\\41a070cf-083d-4c0d-bb35-0919136bbd7b.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\431211ce-7a52-4199-9a0a-749fc5d1d037.jpg",
+      "PackagePath": "staticwebassets\\images\\431211ce-7a52-4199-9a0a-749fc5d1d037.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\43976f50-98ae-474f-a146-39c500129004.jpg",
+      "PackagePath": "staticwebassets\\images\\43976f50-98ae-474f-a146-39c500129004.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\4538a556-d508-46f9-8398-52a46d20be0e.png",
+      "PackagePath": "staticwebassets\\images\\4538a556-d508-46f9-8398-52a46d20be0e.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\463cd571-0ca1-469b-b630-74dddec2e808.jpg",
+      "PackagePath": "staticwebassets\\images\\463cd571-0ca1-469b-b630-74dddec2e808.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\46452419-8aec-414f-9eed-d0435525aa76.jpg",
+      "PackagePath": "staticwebassets\\images\\46452419-8aec-414f-9eed-d0435525aa76.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\477ad870-7260-4e5c-a8bc-42f8c2a10fe2.png",
+      "PackagePath": "staticwebassets\\images\\477ad870-7260-4e5c-a8bc-42f8c2a10fe2.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\48a2e686-0db1-4049-85a2-1b84a93e7490.jpg",
+      "PackagePath": "staticwebassets\\images\\48a2e686-0db1-4049-85a2-1b84a93e7490.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\48e71939-681c-49ef-bb2e-57921101fd56.jpg",
+      "PackagePath": "staticwebassets\\images\\48e71939-681c-49ef-bb2e-57921101fd56.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\48fa8851-4488-4cbc-8e2e-a6adda8e1f82.jpg",
+      "PackagePath": "staticwebassets\\images\\48fa8851-4488-4cbc-8e2e-a6adda8e1f82.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\49bd48ec-90e2-4887-9d94-033d2eb289ff.jpg",
+      "PackagePath": "staticwebassets\\images\\49bd48ec-90e2-4887-9d94-033d2eb289ff.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\4c40591b-8369-459b-af32-3b807a7ade2e.jpg",
+      "PackagePath": "staticwebassets\\images\\4c40591b-8369-459b-af32-3b807a7ade2e.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\4c96693a-042b-4f1a-8b34-ccf6145cf709.png",
+      "PackagePath": "staticwebassets\\images\\4c96693a-042b-4f1a-8b34-ccf6145cf709.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\4ed6607c-516f-40da-a386-54e9011f4c5f.jpg",
+      "PackagePath": "staticwebassets\\images\\4ed6607c-516f-40da-a386-54e9011f4c5f.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\4ef92b5a-e8fb-4aaa-9852-8cd38d00082d.jpg",
+      "PackagePath": "staticwebassets\\images\\4ef92b5a-e8fb-4aaa-9852-8cd38d00082d.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\501dbcc0-fd77-49f1-841e-f502bfb6df92.jpg",
+      "PackagePath": "staticwebassets\\images\\501dbcc0-fd77-49f1-841e-f502bfb6df92.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\501faa5c-6093-4da6-9710-9fecd5ed9784.png",
+      "PackagePath": "staticwebassets\\images\\501faa5c-6093-4da6-9710-9fecd5ed9784.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\50bf5fce-5e3b-48ad-b633-f9ac00014df6.jpg",
+      "PackagePath": "staticwebassets\\images\\50bf5fce-5e3b-48ad-b633-f9ac00014df6.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\539d7ee1-a51b-4961-a992-b909122c0af7.jpg",
+      "PackagePath": "staticwebassets\\images\\539d7ee1-a51b-4961-a992-b909122c0af7.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\5429248f-58bf-4939-8f9a-b877ebc6d1f3.jpg",
+      "PackagePath": "staticwebassets\\images\\5429248f-58bf-4939-8f9a-b877ebc6d1f3.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\5476e8d1-40dc-4561-bc40-f82e569e33ce.jpg",
+      "PackagePath": "staticwebassets\\images\\5476e8d1-40dc-4561-bc40-f82e569e33ce.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\55d1a875-6301-40d4-ac58-093c86955e5e.jpg",
+      "PackagePath": "staticwebassets\\images\\55d1a875-6301-40d4-ac58-093c86955e5e.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\564d6379-f8d0-47fb-90a3-3e70186b0b40.jpg",
+      "PackagePath": "staticwebassets\\images\\564d6379-f8d0-47fb-90a3-3e70186b0b40.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\576edf93-909f-4e2c-a329-1642ebb4dc22.jpg",
+      "PackagePath": "staticwebassets\\images\\576edf93-909f-4e2c-a329-1642ebb4dc22.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\57926123-6eb0-4470-baa6-2e8ef0bb7cc7.jpg",
+      "PackagePath": "staticwebassets\\images\\57926123-6eb0-4470-baa6-2e8ef0bb7cc7.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\57f3697d-a874-4d93-bf95-532d139c164b.jpg",
+      "PackagePath": "staticwebassets\\images\\57f3697d-a874-4d93-bf95-532d139c164b.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\5876fcaf-286e-489c-b62e-455f4282fa73.jpg",
+      "PackagePath": "staticwebassets\\images\\5876fcaf-286e-489c-b62e-455f4282fa73.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\5883d9bb-cacc-4eeb-8d9b-65f02720846c.png",
+      "PackagePath": "staticwebassets\\images\\5883d9bb-cacc-4eeb-8d9b-65f02720846c.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\5a2c6acf-fa9a-4cfb-b63c-d326fc076150.png",
+      "PackagePath": "staticwebassets\\images\\5a2c6acf-fa9a-4cfb-b63c-d326fc076150.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\5b62aa9b-05fd-46af-9438-87c314cae08b.jpg",
+      "PackagePath": "staticwebassets\\images\\5b62aa9b-05fd-46af-9438-87c314cae08b.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\5cc9e2ed-b9e1-42ed-b301-556b0a2bd9bf.jpg",
+      "PackagePath": "staticwebassets\\images\\5cc9e2ed-b9e1-42ed-b301-556b0a2bd9bf.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\5d3226e2-615c-4738-9d81-d624163d8d63.jpg",
+      "PackagePath": "staticwebassets\\images\\5d3226e2-615c-4738-9d81-d624163d8d63.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\5d534352-4807-4f88-a490-09347c16a506.jpg",
+      "PackagePath": "staticwebassets\\images\\5d534352-4807-4f88-a490-09347c16a506.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\5eb8fb60-14f2-491f-969a-6a6095984f25.jpg",
+      "PackagePath": "staticwebassets\\images\\5eb8fb60-14f2-491f-969a-6a6095984f25.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\5ed08b65-4a8e-464f-a546-17ffa8bd527e.jpg",
+      "PackagePath": "staticwebassets\\images\\5ed08b65-4a8e-464f-a546-17ffa8bd527e.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\5fdeef86-cca1-43d2-80d2-b3aca32d1d27.jpg",
+      "PackagePath": "staticwebassets\\images\\5fdeef86-cca1-43d2-80d2-b3aca32d1d27.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\60dd850c-62fd-440b-a532-1ae9a16d9653.jpg",
+      "PackagePath": "staticwebassets\\images\\60dd850c-62fd-440b-a532-1ae9a16d9653.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\61078442-e311-4b1a-9437-0f68304766d0.jpg",
+      "PackagePath": "staticwebassets\\images\\61078442-e311-4b1a-9437-0f68304766d0.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\610c55ad-8a3d-488b-9cb7-5b99bc9e5ec6.jpg",
+      "PackagePath": "staticwebassets\\images\\610c55ad-8a3d-488b-9cb7-5b99bc9e5ec6.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\62e3317c-dcd3-4ec4-bf85-a315312f63a7.jpg",
+      "PackagePath": "staticwebassets\\images\\62e3317c-dcd3-4ec4-bf85-a315312f63a7.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\6732f811-d2cf-4b1c-b320-ad03ef7ef204.jpg",
+      "PackagePath": "staticwebassets\\images\\6732f811-d2cf-4b1c-b320-ad03ef7ef204.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\67658ef8-3fda-4003-a939-e9c65cc58ca7.png",
+      "PackagePath": "staticwebassets\\images\\67658ef8-3fda-4003-a939-e9c65cc58ca7.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\68409bdd-78e4-4634-a8a3-07e8718d0430.jpg",
+      "PackagePath": "staticwebassets\\images\\68409bdd-78e4-4634-a8a3-07e8718d0430.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\6871acfb-89ca-4dfa-b4da-68696b92c839.png",
+      "PackagePath": "staticwebassets\\images\\6871acfb-89ca-4dfa-b4da-68696b92c839.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\6dc5d26c-7136-4c75-8daa-1d08e196fdfc.jpg",
+      "PackagePath": "staticwebassets\\images\\6dc5d26c-7136-4c75-8daa-1d08e196fdfc.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\6ea25c82-5846-4807-8f9e-4c80c1b38590.jpg",
+      "PackagePath": "staticwebassets\\images\\6ea25c82-5846-4807-8f9e-4c80c1b38590.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\6f37d501-08ce-413f-9467-e8771a661c3b.jpg",
+      "PackagePath": "staticwebassets\\images\\6f37d501-08ce-413f-9467-e8771a661c3b.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\70287080-496a-41fd-a1ac-90317eb78bbb.jpg",
+      "PackagePath": "staticwebassets\\images\\70287080-496a-41fd-a1ac-90317eb78bbb.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\70c84dd5-f4e3-4e2c-8457-03a7e584e091.jpg",
+      "PackagePath": "staticwebassets\\images\\70c84dd5-f4e3-4e2c-8457-03a7e584e091.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\71a56762-eed7-424c-81aa-de814afd5dc6.jpg",
+      "PackagePath": "staticwebassets\\images\\71a56762-eed7-424c-81aa-de814afd5dc6.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\729a7b81-735a-4ab2-adb7-90a35b263986.jpg",
+      "PackagePath": "staticwebassets\\images\\729a7b81-735a-4ab2-adb7-90a35b263986.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\730ff98b-5bc5-42d7-956d-88e0bf83c01e.png",
+      "PackagePath": "staticwebassets\\images\\730ff98b-5bc5-42d7-956d-88e0bf83c01e.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\73202358-d2b7-470b-bca5-6c7314ea7291.jpg",
+      "PackagePath": "staticwebassets\\images\\73202358-d2b7-470b-bca5-6c7314ea7291.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\73d28b25-e45b-4b68-8322-034ef17b3b29.png",
+      "PackagePath": "staticwebassets\\images\\73d28b25-e45b-4b68-8322-034ef17b3b29.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\76332028-0f70-443e-b576-0aaba8fa5fcb.jpg",
+      "PackagePath": "staticwebassets\\images\\76332028-0f70-443e-b576-0aaba8fa5fcb.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\76d0567e-e89e-42df-a05d-01af061863ac.jpg",
+      "PackagePath": "staticwebassets\\images\\76d0567e-e89e-42df-a05d-01af061863ac.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\774f7807-03ca-47be-aa4a-9c24ac32dfda.png",
+      "PackagePath": "staticwebassets\\images\\774f7807-03ca-47be-aa4a-9c24ac32dfda.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\7824b831-d2b3-4c5d-b83b-c81bf1104336.jpg",
+      "PackagePath": "staticwebassets\\images\\7824b831-d2b3-4c5d-b83b-c81bf1104336.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\7b3151ec-28b5-4848-9f2f-f3f52fe0f9e9.jpg",
+      "PackagePath": "staticwebassets\\images\\7b3151ec-28b5-4848-9f2f-f3f52fe0f9e9.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\7c00a82a-28d9-43e7-892f-4139c7d53602.jpg",
+      "PackagePath": "staticwebassets\\images\\7c00a82a-28d9-43e7-892f-4139c7d53602.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\7d2ee82b-8be9-41a7-b010-8ef47356a181.jpg",
+      "PackagePath": "staticwebassets\\images\\7d2ee82b-8be9-41a7-b010-8ef47356a181.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\7d4b6e5c-6428-4284-88c4-91a0b7b79f01.jpg",
+      "PackagePath": "staticwebassets\\images\\7d4b6e5c-6428-4284-88c4-91a0b7b79f01.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\7d788fa2-e82f-452f-b6f7-4feb169dade5.jpg",
+      "PackagePath": "staticwebassets\\images\\7d788fa2-e82f-452f-b6f7-4feb169dade5.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\7e04b610-75d3-4e6b-a163-ab33d3cfba35.jpg",
+      "PackagePath": "staticwebassets\\images\\7e04b610-75d3-4e6b-a163-ab33d3cfba35.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\80e0ac44-57c8-4350-8c77-2b1b1d998ace.jpg",
+      "PackagePath": "staticwebassets\\images\\80e0ac44-57c8-4350-8c77-2b1b1d998ace.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\80f6da84-189b-4c4f-82f0-4bf9a919d46e.png",
+      "PackagePath": "staticwebassets\\images\\80f6da84-189b-4c4f-82f0-4bf9a919d46e.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\82383e2d-1810-4e5f-866b-9abfdc051d5f.jpg",
+      "PackagePath": "staticwebassets\\images\\82383e2d-1810-4e5f-866b-9abfdc051d5f.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\829e04fb-e259-4313-9291-1e84ec0102ef.png",
+      "PackagePath": "staticwebassets\\images\\829e04fb-e259-4313-9291-1e84ec0102ef.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\83ef798f-0487-47c7-95e0-2de404770cf3.jpg",
+      "PackagePath": "staticwebassets\\images\\83ef798f-0487-47c7-95e0-2de404770cf3.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\842e273e-a4ac-4e9d-a19e-556d5f64bab3.jpg",
+      "PackagePath": "staticwebassets\\images\\842e273e-a4ac-4e9d-a19e-556d5f64bab3.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\85afda02-4ddf-4153-a14a-058786b5d83e.png",
+      "PackagePath": "staticwebassets\\images\\85afda02-4ddf-4153-a14a-058786b5d83e.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\86b01942-0de3-4624-bfde-0b9164773fc4.jpg",
+      "PackagePath": "staticwebassets\\images\\86b01942-0de3-4624-bfde-0b9164773fc4.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\888abfc0-25a8-4f60-b530-2f54cb220d10.jpg",
+      "PackagePath": "staticwebassets\\images\\888abfc0-25a8-4f60-b530-2f54cb220d10.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\898b4937-8255-43d5-93a1-356818b1ed4e.jpg",
+      "PackagePath": "staticwebassets\\images\\898b4937-8255-43d5-93a1-356818b1ed4e.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\8a090bb1-7293-476a-a94d-98edfc4d93a8.jpg",
+      "PackagePath": "staticwebassets\\images\\8a090bb1-7293-476a-a94d-98edfc4d93a8.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\8aa53a8e-7d50-43c9-88c2-e28dc9b46a61.jpg",
+      "PackagePath": "staticwebassets\\images\\8aa53a8e-7d50-43c9-88c2-e28dc9b46a61.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\8cf82990-b72f-498d-8a99-1cd15daa6bf3.jpg",
+      "PackagePath": "staticwebassets\\images\\8cf82990-b72f-498d-8a99-1cd15daa6bf3.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\91a87015-9f60-4bd1-858f-09b98229e793.jpg",
+      "PackagePath": "staticwebassets\\images\\91a87015-9f60-4bd1-858f-09b98229e793.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\9211dff6-2324-4383-9668-c40910273eba.jpg",
+      "PackagePath": "staticwebassets\\images\\9211dff6-2324-4383-9668-c40910273eba.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\927ebc7f-7eaa-4bed-a9ad-f62f643c1ef9.png",
+      "PackagePath": "staticwebassets\\images\\927ebc7f-7eaa-4bed-a9ad-f62f643c1ef9.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\93d74a9a-6556-4e47-8a8e-ffda45a6453d.jpg",
+      "PackagePath": "staticwebassets\\images\\93d74a9a-6556-4e47-8a8e-ffda45a6453d.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\93e76ffa-80d2-435e-befc-674a61da4885.jpg",
+      "PackagePath": "staticwebassets\\images\\93e76ffa-80d2-435e-befc-674a61da4885.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\949e8e90-6bb3-4f80-8152-d94c8b9e5f00.jpg",
+      "PackagePath": "staticwebassets\\images\\949e8e90-6bb3-4f80-8152-d94c8b9e5f00.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\94f2aed4-abec-4af8-92c2-eba67d3a0cf5.jpg",
+      "PackagePath": "staticwebassets\\images\\94f2aed4-abec-4af8-92c2-eba67d3a0cf5.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\94f74f09-99dd-4bb1-b944-cb16f70345df.jpg",
+      "PackagePath": "staticwebassets\\images\\94f74f09-99dd-4bb1-b944-cb16f70345df.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\956288e6-1c1d-4a09-a3bb-028c02e8d848.jpg",
+      "PackagePath": "staticwebassets\\images\\956288e6-1c1d-4a09-a3bb-028c02e8d848.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\95c9e52a-c67a-4ace-b3bd-d28c4f0cd22c.png",
+      "PackagePath": "staticwebassets\\images\\95c9e52a-c67a-4ace-b3bd-d28c4f0cd22c.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\95ecec3c-cbe2-48de-844c-b9a332c77168.jpg",
+      "PackagePath": "staticwebassets\\images\\95ecec3c-cbe2-48de-844c-b9a332c77168.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\96516480-1059-48b4-a4cd-cb935a3ccfa2.jpg",
+      "PackagePath": "staticwebassets\\images\\96516480-1059-48b4-a4cd-cb935a3ccfa2.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\96ab8913-b408-4afa-b2a2-92b2c362c383.jpg",
+      "PackagePath": "staticwebassets\\images\\96ab8913-b408-4afa-b2a2-92b2c362c383.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\975de29a-ff51-405f-bc90-0844546d40ad.jpg",
+      "PackagePath": "staticwebassets\\images\\975de29a-ff51-405f-bc90-0844546d40ad.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\97fd4bf3-54c7-4b4a-bea2-7d89a6ae8bef.jpg",
+      "PackagePath": "staticwebassets\\images\\97fd4bf3-54c7-4b4a-bea2-7d89a6ae8bef.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\9807db65-3308-431b-a298-3d5be698b349.jpg",
+      "PackagePath": "staticwebassets\\images\\9807db65-3308-431b-a298-3d5be698b349.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\9873cc85-ea89-4d83-9694-f9dd1127bc20.jpg",
+      "PackagePath": "staticwebassets\\images\\9873cc85-ea89-4d83-9694-f9dd1127bc20.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\98ccfdf0-bbd7-45dd-8170-8a364bcacd8d.png",
+      "PackagePath": "staticwebassets\\images\\98ccfdf0-bbd7-45dd-8170-8a364bcacd8d.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\99228218-27a7-4898-aada-a9aec2f4708c.jpg",
+      "PackagePath": "staticwebassets\\images\\99228218-27a7-4898-aada-a9aec2f4708c.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\9b266bcc-bf75-4b46-9469-3734cef5d39d.jpg",
+      "PackagePath": "staticwebassets\\images\\9b266bcc-bf75-4b46-9469-3734cef5d39d.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\9c8c2f65-d4b8-44cc-9c6f-b70882d48598.jpg",
+      "PackagePath": "staticwebassets\\images\\9c8c2f65-d4b8-44cc-9c6f-b70882d48598.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\9ce547db-212b-4a91-ad33-a6e44e4dc3d9.jpg",
+      "PackagePath": "staticwebassets\\images\\9ce547db-212b-4a91-ad33-a6e44e4dc3d9.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\9fb83ec8-d8ce-4749-8efd-874b542803bd.jpg",
+      "PackagePath": "staticwebassets\\images\\9fb83ec8-d8ce-4749-8efd-874b542803bd.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\9ffa5949-0e0d-476e-8b97-e04655237813.jpg",
+      "PackagePath": "staticwebassets\\images\\9ffa5949-0e0d-476e-8b97-e04655237813.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\a2271ab2-1ad0-4bb7-8641-2f1e4e66b1bc.png",
+      "PackagePath": "staticwebassets\\images\\a2271ab2-1ad0-4bb7-8641-2f1e4e66b1bc.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\a22c668a-a4ed-4c8d-85ad-bbbe3f6ceca9.png",
+      "PackagePath": "staticwebassets\\images\\a22c668a-a4ed-4c8d-85ad-bbbe3f6ceca9.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\a28206ce-5a4e-4646-a5c8-1388250a4b5e.jpg",
+      "PackagePath": "staticwebassets\\images\\a28206ce-5a4e-4646-a5c8-1388250a4b5e.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\a286b70f-c183-41ad-ae4f-8c90733dd61a.jpg",
+      "PackagePath": "staticwebassets\\images\\a286b70f-c183-41ad-ae4f-8c90733dd61a.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\a32d6e2f-b287-40bc-9a3b-2543a1433fa2.jpg",
+      "PackagePath": "staticwebassets\\images\\a32d6e2f-b287-40bc-9a3b-2543a1433fa2.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\a33b8be5-c2c1-4ed7-9c67-7cce036d32ee.jpg",
+      "PackagePath": "staticwebassets\\images\\a33b8be5-c2c1-4ed7-9c67-7cce036d32ee.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\a3ac7841-385d-4993-b255-e502ce4e320b.jpg",
+      "PackagePath": "staticwebassets\\images\\a3ac7841-385d-4993-b255-e502ce4e320b.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\a44b9cf7-0a6d-4bfa-882d-142be48c4b67.jpg",
+      "PackagePath": "staticwebassets\\images\\a44b9cf7-0a6d-4bfa-882d-142be48c4b67.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\a4782f94-1bba-4779-ba6a-15fe924faeb5.jpg",
+      "PackagePath": "staticwebassets\\images\\a4782f94-1bba-4779-ba6a-15fe924faeb5.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\a4e6e648-c683-4969-a62c-7860c45c1e5f.jpg",
+      "PackagePath": "staticwebassets\\images\\a4e6e648-c683-4969-a62c-7860c45c1e5f.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\a653ca27-6f43-48f7-b753-6f7a55bce39a.jpg",
+      "PackagePath": "staticwebassets\\images\\a653ca27-6f43-48f7-b753-6f7a55bce39a.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\a6f59f00-2ac6-4964-8074-74ad845d34f1.png",
+      "PackagePath": "staticwebassets\\images\\a6f59f00-2ac6-4964-8074-74ad845d34f1.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\a724f3e6-13b1-41e3-b14d-7db63efa7d3f.jpg",
+      "PackagePath": "staticwebassets\\images\\a724f3e6-13b1-41e3-b14d-7db63efa7d3f.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\a77ab749-9a13-411e-acdf-a5d45677647b.jpg",
+      "PackagePath": "staticwebassets\\images\\a77ab749-9a13-411e-acdf-a5d45677647b.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\a7b1a629-efb4-4ea1-a589-80a0ed97d673.jpg",
+      "PackagePath": "staticwebassets\\images\\a7b1a629-efb4-4ea1-a589-80a0ed97d673.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\a7ba651e-83d2-47e8-bd43-4c7fd2c41691.jpg",
+      "PackagePath": "staticwebassets\\images\\a7ba651e-83d2-47e8-bd43-4c7fd2c41691.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\a9c36dd4-110f-47a6-a700-1035dbc01126.jpg",
+      "PackagePath": "staticwebassets\\images\\a9c36dd4-110f-47a6-a700-1035dbc01126.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\aaae1f72-0fbb-426c-9541-a2046e1cfbf5.jpg",
+      "PackagePath": "staticwebassets\\images\\aaae1f72-0fbb-426c-9541-a2046e1cfbf5.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\ab0c3d35-94a0-4653-afc6-50ee4fa18de4.jpg",
+      "PackagePath": "staticwebassets\\images\\ab0c3d35-94a0-4653-afc6-50ee4fa18de4.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\ac035153-c1ec-457e-a177-893f7280ff57.jpg",
+      "PackagePath": "staticwebassets\\images\\ac035153-c1ec-457e-a177-893f7280ff57.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\aca5788c-b442-47d7-98de-51b223572724.jpg",
+      "PackagePath": "staticwebassets\\images\\aca5788c-b442-47d7-98de-51b223572724.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\ace9f1d6-45a4-4eda-a591-087690690688.jpg",
+      "PackagePath": "staticwebassets\\images\\ace9f1d6-45a4-4eda-a591-087690690688.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\adb90f1d-28d4-47ee-89c1-656a1800e6ea.jpg",
+      "PackagePath": "staticwebassets\\images\\adb90f1d-28d4-47ee-89c1-656a1800e6ea.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\ae64b210-f9d0-4991-9a02-cad48ad4d4a9.png",
+      "PackagePath": "staticwebassets\\images\\ae64b210-f9d0-4991-9a02-cad48ad4d4a9.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\ae66e7ac-429c-4f41-a9b8-eea03ef52c3d.png",
+      "PackagePath": "staticwebassets\\images\\ae66e7ac-429c-4f41-a9b8-eea03ef52c3d.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\aed47fde-6d6d-4603-9a10-dc623c4dfcd3.jpg",
+      "PackagePath": "staticwebassets\\images\\aed47fde-6d6d-4603-9a10-dc623c4dfcd3.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\af48b592-9811-425c-855e-8496857b3cda.jpg",
+      "PackagePath": "staticwebassets\\images\\af48b592-9811-425c-855e-8496857b3cda.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\af4e03e4-5ee6-4093-b8df-d5cd3be3b2e6.png",
+      "PackagePath": "staticwebassets\\images\\af4e03e4-5ee6-4093-b8df-d5cd3be3b2e6.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\b12dedd0-a5a9-4b5d-bafe-c27bce37a522.jpg",
+      "PackagePath": "staticwebassets\\images\\b12dedd0-a5a9-4b5d-bafe-c27bce37a522.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\b1f510ce-1edc-4eb4-a91b-fec31ed0497a.jpg",
+      "PackagePath": "staticwebassets\\images\\b1f510ce-1edc-4eb4-a91b-fec31ed0497a.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\b2e72ec0-cc16-41be-8f4a-eccb37311c00.png",
+      "PackagePath": "staticwebassets\\images\\b2e72ec0-cc16-41be-8f4a-eccb37311c00.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\b304a6d4-088e-455b-9de3-89bb8e192828.jpg",
+      "PackagePath": "staticwebassets\\images\\b304a6d4-088e-455b-9de3-89bb8e192828.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\b412a655-ddb0-4251-8853-46d167785cea.jpg",
+      "PackagePath": "staticwebassets\\images\\b412a655-ddb0-4251-8853-46d167785cea.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\b443fc43-76ec-49e3-bc23-95e456161659.jpg",
+      "PackagePath": "staticwebassets\\images\\b443fc43-76ec-49e3-bc23-95e456161659.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\b55486e0-a4dc-4880-847c-4a82e25a3849.jpg",
+      "PackagePath": "staticwebassets\\images\\b55486e0-a4dc-4880-847c-4a82e25a3849.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\b55f4454-1a60-452b-a4e8-0d9b351ae622.jpg",
+      "PackagePath": "staticwebassets\\images\\b55f4454-1a60-452b-a4e8-0d9b351ae622.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\b787111a-f307-411a-ae5a-50919bc79873.png",
+      "PackagePath": "staticwebassets\\images\\b787111a-f307-411a-ae5a-50919bc79873.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\b7e98f8c-1675-4e2a-a6e3-e4a52974862c.jpg",
+      "PackagePath": "staticwebassets\\images\\b7e98f8c-1675-4e2a-a6e3-e4a52974862c.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\b97e2a9e-f8b7-4a77-b468-bfff17698d05.png",
+      "PackagePath": "staticwebassets\\images\\b97e2a9e-f8b7-4a77-b468-bfff17698d05.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\b9992141-7ea3-4feb-aa1b-3af6a59a326c.jpg",
+      "PackagePath": "staticwebassets\\images\\b9992141-7ea3-4feb-aa1b-3af6a59a326c.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\bba439d0-292c-4180-a065-12d68145a372.jpg",
+      "PackagePath": "staticwebassets\\images\\bba439d0-292c-4180-a065-12d68145a372.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\bbbeb0dc-6dac-4f1b-8980-c02312c7d60e.png",
+      "PackagePath": "staticwebassets\\images\\bbbeb0dc-6dac-4f1b-8980-c02312c7d60e.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\bbfcaf65-47f9-4a53-99e5-c5322b96b0d4.jpg",
+      "PackagePath": "staticwebassets\\images\\bbfcaf65-47f9-4a53-99e5-c5322b96b0d4.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\bc7ec04a-87ab-4496-a64e-756904e41341.jpg",
+      "PackagePath": "staticwebassets\\images\\bc7ec04a-87ab-4496-a64e-756904e41341.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\beaa4ec6-3d4b-4de5-8f17-365f94dc3fae.jpg",
+      "PackagePath": "staticwebassets\\images\\beaa4ec6-3d4b-4de5-8f17-365f94dc3fae.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\bffd5efb-559e-4bb9-9feb-d2c857d84d69.jpg",
+      "PackagePath": "staticwebassets\\images\\bffd5efb-559e-4bb9-9feb-d2c857d84d69.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\c1eeb712-bfd2-4424-b4f3-2f9f6efcfd74.jpg",
+      "PackagePath": "staticwebassets\\images\\c1eeb712-bfd2-4424-b4f3-2f9f6efcfd74.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\c3abbb70-1dfc-4436-8bba-db95ee8d2cf7.jpg",
+      "PackagePath": "staticwebassets\\images\\c3abbb70-1dfc-4436-8bba-db95ee8d2cf7.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\c4337428-3b95-4a58-a434-60045440402e.jpg",
+      "PackagePath": "staticwebassets\\images\\c4337428-3b95-4a58-a434-60045440402e.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\c4412192-c76d-41dd-9558-f079f71906c0.jpg",
+      "PackagePath": "staticwebassets\\images\\c4412192-c76d-41dd-9558-f079f71906c0.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\c44ed161-82ed-4a0c-a69c-7cf0a2e2ed6c.jpg",
+      "PackagePath": "staticwebassets\\images\\c44ed161-82ed-4a0c-a69c-7cf0a2e2ed6c.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\c44fe15a-3d78-4a13-a774-098a3bb78dbb.jpg",
+      "PackagePath": "staticwebassets\\images\\c44fe15a-3d78-4a13-a774-098a3bb78dbb.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\c5733cf2-0ac0-4d2e-ac9e-1f1bfe565727.jpg",
+      "PackagePath": "staticwebassets\\images\\c5733cf2-0ac0-4d2e-ac9e-1f1bfe565727.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\c926f9dc-b271-48e5-9754-a58d5f1ced8a.jpg",
+      "PackagePath": "staticwebassets\\images\\c926f9dc-b271-48e5-9754-a58d5f1ced8a.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\ca330122-a89d-4d16-8112-35176952de28.jpg",
+      "PackagePath": "staticwebassets\\images\\ca330122-a89d-4d16-8112-35176952de28.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\ca7f5144-1bc9-40d4-bcb3-29aeece452bf.png",
+      "PackagePath": "staticwebassets\\images\\ca7f5144-1bc9-40d4-bcb3-29aeece452bf.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\caa24af3-887d-4778-977e-b62fd0f48e20.jpg",
+      "PackagePath": "staticwebassets\\images\\caa24af3-887d-4778-977e-b62fd0f48e20.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\cc6ee21a-c129-4d9b-8fd1-fe2f4252c632.png",
+      "PackagePath": "staticwebassets\\images\\cc6ee21a-c129-4d9b-8fd1-fe2f4252c632.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\cdbf58a0-9e59-4b88-bd04-db1276ec87cc.png",
+      "PackagePath": "staticwebassets\\images\\cdbf58a0-9e59-4b88-bd04-db1276ec87cc.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\cf4dbc2d-4899-42b7-8a90-9aefe4e236a1.jpg",
+      "PackagePath": "staticwebassets\\images\\cf4dbc2d-4899-42b7-8a90-9aefe4e236a1.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\cfd1a077-1868-47e8-8aa4-6c37d466f8f2.png",
+      "PackagePath": "staticwebassets\\images\\cfd1a077-1868-47e8-8aa4-6c37d466f8f2.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\d0c545e7-5dd7-4040-bca5-26f94e320b4e.jpg",
+      "PackagePath": "staticwebassets\\images\\d0c545e7-5dd7-4040-bca5-26f94e320b4e.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\d0e95bce-d06c-42aa-9384-9bef8060377b.jpg",
+      "PackagePath": "staticwebassets\\images\\d0e95bce-d06c-42aa-9384-9bef8060377b.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\d733456d-2d54-4128-a428-338a5e418c10.jpg",
+      "PackagePath": "staticwebassets\\images\\d733456d-2d54-4128-a428-338a5e418c10.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\d7f259af-cfad-4c35-8156-d22e7d313cfe.jpg",
+      "PackagePath": "staticwebassets\\images\\d7f259af-cfad-4c35-8156-d22e7d313cfe.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\d82072c7-211c-4756-9e8d-ea5197cdf152.jpg",
+      "PackagePath": "staticwebassets\\images\\d82072c7-211c-4756-9e8d-ea5197cdf152.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\d82d1880-865a-4ef6-a1b9-4c53719b4c11.jpg",
+      "PackagePath": "staticwebassets\\images\\d82d1880-865a-4ef6-a1b9-4c53719b4c11.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\d90a5c60-1654-4b6a-947f-e15540b8b571.jpg",
+      "PackagePath": "staticwebassets\\images\\d90a5c60-1654-4b6a-947f-e15540b8b571.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\d93fd33d-51c5-4e03-afde-b35937978496.png",
+      "PackagePath": "staticwebassets\\images\\d93fd33d-51c5-4e03-afde-b35937978496.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\d98e4ef6-0365-4504-b3ef-2f5fc9894d99.jpg",
+      "PackagePath": "staticwebassets\\images\\d98e4ef6-0365-4504-b3ef-2f5fc9894d99.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\d9b9cbe2-4274-416f-9b81-6c4c9e6e9b5c.jpg",
+      "PackagePath": "staticwebassets\\images\\d9b9cbe2-4274-416f-9b81-6c4c9e6e9b5c.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\d9cea189-2148-424b-8a6c-d7e697a2fd6c.jpg",
+      "PackagePath": "staticwebassets\\images\\d9cea189-2148-424b-8a6c-d7e697a2fd6c.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\db26b2af-3634-4a63-9d2b-377cd9c1d3a2.jpg",
+      "PackagePath": "staticwebassets\\images\\db26b2af-3634-4a63-9d2b-377cd9c1d3a2.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\db5977d4-4d2a-4742-88dc-c9f65577e5a1.png",
+      "PackagePath": "staticwebassets\\images\\db5977d4-4d2a-4742-88dc-c9f65577e5a1.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\ddaec189-c1d2-4472-9f23-b22dfd40a508.jpg",
+      "PackagePath": "staticwebassets\\images\\ddaec189-c1d2-4472-9f23-b22dfd40a508.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\ddc2808e-d612-4565-9d6d-178393d41a93.jpg",
+      "PackagePath": "staticwebassets\\images\\ddc2808e-d612-4565-9d6d-178393d41a93.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\de0d5034-9fd0-45f6-9d29-50bc576d85b4.jpg",
+      "PackagePath": "staticwebassets\\images\\de0d5034-9fd0-45f6-9d29-50bc576d85b4.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\de78c6f8-dfec-4bea-8f42-6d74594b58a4.jpg",
+      "PackagePath": "staticwebassets\\images\\de78c6f8-dfec-4bea-8f42-6d74594b58a4.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\dee2173f-86cd-4a7e-a47c-310bd7d5f40c.jpg",
+      "PackagePath": "staticwebassets\\images\\dee2173f-86cd-4a7e-a47c-310bd7d5f40c.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\df9e79ca-bdf2-4583-b564-f1b293dc807e.jpg",
+      "PackagePath": "staticwebassets\\images\\df9e79ca-bdf2-4583-b564-f1b293dc807e.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\e1d7d90e-b3f7-4327-9711-27f955934ed0.png",
+      "PackagePath": "staticwebassets\\images\\e1d7d90e-b3f7-4327-9711-27f955934ed0.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\e20bf47c-4bde-4dbb-8ef6-a07a494bf9c6.jpg",
+      "PackagePath": "staticwebassets\\images\\e20bf47c-4bde-4dbb-8ef6-a07a494bf9c6.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\e2346f60-00a5-4ee1-8c50-f232aa76a2d4.jpg",
+      "PackagePath": "staticwebassets\\images\\e2346f60-00a5-4ee1-8c50-f232aa76a2d4.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\e26185cc-b0ac-4e19-aa5e-1f52a63bbdb1.jpg",
+      "PackagePath": "staticwebassets\\images\\e26185cc-b0ac-4e19-aa5e-1f52a63bbdb1.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\e51cef04-34e2-42af-9761-c490e765189c.jpg",
+      "PackagePath": "staticwebassets\\images\\e51cef04-34e2-42af-9761-c490e765189c.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\e7dc1c61-c9e8-4844-a44a-341fb4f88146.png",
+      "PackagePath": "staticwebassets\\images\\e7dc1c61-c9e8-4844-a44a-341fb4f88146.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\e9e85a5f-b325-443d-8b55-1dca62b4a5a4.jpg",
+      "PackagePath": "staticwebassets\\images\\e9e85a5f-b325-443d-8b55-1dca62b4a5a4.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\eabf65d7-998a-4e55-872b-ae579cb7dbcb.jpg",
+      "PackagePath": "staticwebassets\\images\\eabf65d7-998a-4e55-872b-ae579cb7dbcb.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\eb3a172d-f987-4c62-b4d5-4dfc63490f41.jpg",
+      "PackagePath": "staticwebassets\\images\\eb3a172d-f987-4c62-b4d5-4dfc63490f41.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\ece8ba68-380e-4fc0-bc52-804ef334be9b.jpg",
+      "PackagePath": "staticwebassets\\images\\ece8ba68-380e-4fc0-bc52-804ef334be9b.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\eea86b89-1705-42bf-a8d9-1a5cc72723af.jpg",
+      "PackagePath": "staticwebassets\\images\\eea86b89-1705-42bf-a8d9-1a5cc72723af.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\f0e7fd64-1d8b-495e-9d2c-6c54ecf89041.png",
+      "PackagePath": "staticwebassets\\images\\f0e7fd64-1d8b-495e-9d2c-6c54ecf89041.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\f2b377b1-2770-4092-9a02-498aad9a13db.jpg",
+      "PackagePath": "staticwebassets\\images\\f2b377b1-2770-4092-9a02-498aad9a13db.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\f35b7b4f-fba3-4973-8b75-645b61aeb632.jpg",
+      "PackagePath": "staticwebassets\\images\\f35b7b4f-fba3-4973-8b75-645b61aeb632.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\f396fcab-1ef8-402a-b104-35a224249198.png",
+      "PackagePath": "staticwebassets\\images\\f396fcab-1ef8-402a-b104-35a224249198.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\f3a9df7a-fa04-4e74-b09c-c00f0d23991b.png",
+      "PackagePath": "staticwebassets\\images\\f3a9df7a-fa04-4e74-b09c-c00f0d23991b.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\f43da156-d6bf-46fe-b61f-f1de3b1c509a.jpg",
+      "PackagePath": "staticwebassets\\images\\f43da156-d6bf-46fe-b61f-f1de3b1c509a.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\f5cd7331-debe-4736-a619-5f9c468c4e67.png",
+      "PackagePath": "staticwebassets\\images\\f5cd7331-debe-4736-a619-5f9c468c4e67.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\f5f2669e-0a6c-4c29-9591-cdb9d89f44d9.jpg",
+      "PackagePath": "staticwebassets\\images\\f5f2669e-0a6c-4c29-9591-cdb9d89f44d9.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\f696e26a-03a2-4cde-bf98-b0013ae8d858.png",
+      "PackagePath": "staticwebassets\\images\\f696e26a-03a2-4cde-bf98-b0013ae8d858.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\f7a1bec6-3810-46be-8257-251190d2106b.jpg",
+      "PackagePath": "staticwebassets\\images\\f7a1bec6-3810-46be-8257-251190d2106b.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\f917aa10-1d5b-47bd-8726-ed86f7cd8582.jpg",
+      "PackagePath": "staticwebassets\\images\\f917aa10-1d5b-47bd-8726-ed86f7cd8582.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\f9370af2-e734-4a5a-8c09-53c74aa1bd98.png",
+      "PackagePath": "staticwebassets\\images\\f9370af2-e734-4a5a-8c09-53c74aa1bd98.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\fa2aa177-07d9-4b34-851d-68cebc995fe3.png",
+      "PackagePath": "staticwebassets\\images\\fa2aa177-07d9-4b34-851d-68cebc995fe3.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\faa2fb01-6221-454a-928b-0148fff93c96.jpg",
+      "PackagePath": "staticwebassets\\images\\faa2fb01-6221-454a-928b-0148fff93c96.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\faa5108c-245a-421f-a47b-6f08d2926789.png",
+      "PackagePath": "staticwebassets\\images\\faa5108c-245a-421f-a47b-6f08d2926789.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\fca4e674-303d-4e66-943f-aca6e7b50a5e.jpg",
+      "PackagePath": "staticwebassets\\images\\fca4e674-303d-4e66-943f-aca6e7b50a5e.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\fd30e4e2-2d5d-4f71-a332-e3b1614decee.jpg",
+      "PackagePath": "staticwebassets\\images\\fd30e4e2-2d5d-4f71-a332-e3b1614decee.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\ff22e6c9-87fd-4fc8-9841-35005d3e7663.jpg",
+      "PackagePath": "staticwebassets\\images\\ff22e6c9-87fd-4fc8-9841-35005d3e7663.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\ffb31f64-295e-414f-ad98-3e75951c500f.jpg",
+      "PackagePath": "staticwebassets\\images\\ffb31f64-295e-414f-ad98-3e75951c500f.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\vedio\\03c972d8-8dae-4f0e-85f8-0886ddb94207.mp4",
+      "PackagePath": "staticwebassets\\vedio\\03c972d8-8dae-4f0e-85f8-0886ddb94207.mp4"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\vedio\\154918fe-e0cf-472e-be02-58dafd357e08.mp4",
+      "PackagePath": "staticwebassets\\vedio\\154918fe-e0cf-472e-be02-58dafd357e08.mp4"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\vedio\\155c0bf1-3a10-4f55-a04f-998c563a9399.mp4",
+      "PackagePath": "staticwebassets\\vedio\\155c0bf1-3a10-4f55-a04f-998c563a9399.mp4"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\vedio\\182bc5b3-d49d-4134-861f-ea56674bd92f.mp4",
+      "PackagePath": "staticwebassets\\vedio\\182bc5b3-d49d-4134-861f-ea56674bd92f.mp4"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\vedio\\2cac019e-a94c-458a-8baf-e17b5f67a125.mp4",
+      "PackagePath": "staticwebassets\\vedio\\2cac019e-a94c-458a-8baf-e17b5f67a125.mp4"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\vedio\\34f5dfea-2f97-4e47-84eb-eb225c9c6e5a.mp4",
+      "PackagePath": "staticwebassets\\vedio\\34f5dfea-2f97-4e47-84eb-eb225c9c6e5a.mp4"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\vedio\\4f483da8-ddc8-4be0-92c2-242c10845597.mp4",
+      "PackagePath": "staticwebassets\\vedio\\4f483da8-ddc8-4be0-92c2-242c10845597.mp4"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\vedio\\5bd0f8ea-e64f-4a11-9c88-ce729ed3e4d1.mp4",
+      "PackagePath": "staticwebassets\\vedio\\5bd0f8ea-e64f-4a11-9c88-ce729ed3e4d1.mp4"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\vedio\\a66ce6e4-2924-48d2-b23a-c956b39c9c26.mp4",
+      "PackagePath": "staticwebassets\\vedio\\a66ce6e4-2924-48d2-b23a-c956b39c9c26.mp4"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\vedio\\c87f8253-7093-4d7a-86af-6e8395495f23.mp4",
+      "PackagePath": "staticwebassets\\vedio\\c87f8253-7093-4d7a-86af-6e8395495f23.mp4"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\vedio\\d6b08b29-7d86-4a79-88b6-038063be2b63.mp4",
+      "PackagePath": "staticwebassets\\vedio\\d6b08b29-7d86-4a79-88b6-038063be2b63.mp4"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\vedio\\eebb6543-5679-470c-9692-5319461e29c1.mp4",
+      "PackagePath": "staticwebassets\\vedio\\eebb6543-5679-470c-9692-5319461e29c1.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BPJ_U2T.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BPJ_U2T.props",
+      "PackagePath": "build\\BPJ_U2T.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BPJ_U2T.props",
+      "PackagePath": "buildMultiTargeting\\BPJ_U2T.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BPJ_U2T.props",
+      "PackagePath": "buildTransitive\\BPJ_U2T.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
