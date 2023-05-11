@@ -14,7 +14,7 @@ namespace BPJ_U2T.Extenstions
                .Select(order => new OrderDTO
                {
                    ID = order.ID,
-                   //PaymentStatus = order.PaymentStatus,
+                   PaymentStatus = order.PaymentStatus,
                    Created = order.Created,
                    ProofOfPayment = order.ProofOfPayment,
                    //Created = order.Address.Created,

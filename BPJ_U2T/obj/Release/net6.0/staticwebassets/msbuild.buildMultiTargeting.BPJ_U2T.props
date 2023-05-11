@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BPJ_U2T.props" />
+</Project>

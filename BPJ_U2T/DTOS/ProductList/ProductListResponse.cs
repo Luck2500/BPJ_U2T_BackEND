@@ -1,4 +1,6 @@
-﻿namespace BPJ_U2T.DTOS.ProductList
+﻿using BPJ_U2T.Settings;
+
+namespace BPJ_U2T.DTOS.ProductList
 {
     public class ProductListResponse
     {
@@ -22,7 +24,7 @@
                ProductAmount = productList.ProductAmount,
                Product = productList.Product,
                 OrderAccount = productList.OrderAccount,
-                ImageProduct = !string.IsNullOrEmpty(productList.Product.Image) ? "https://localhost:7141/" + "images/" + productList.Product.Image : "",
+                ImageProduct = !string.IsNullOrEmpty(productList.Product.Image) ? UrlServer.Url + "images/" + productList.Product.Image : "",
                 
             };
         }

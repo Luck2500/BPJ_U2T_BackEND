@@ -1,4 +1,6 @@
-﻿namespace BPJ_U2T.DTOS.Cart
+﻿using BPJ_U2T.Settings;
+
+namespace BPJ_U2T.DTOS.Cart
 {
     public class CartResponse
     {
@@ -16,7 +18,7 @@
                 ID = cart.ID,
                 AmountProduct = cart.AmountProduct,
                 Product = cart.Product,
-                ImageProduct = !string.IsNullOrEmpty(cart.Product.Image) ? "https://localhost:7141/" + "images/" + cart.Product.Image : "",
+                ImageProduct = !string.IsNullOrEmpty(cart.Product.Image) ? UrlServer.Url + "images/" + cart.Product.Image : "",
                 //Customer = cartCustomer.Customer
             };
         }

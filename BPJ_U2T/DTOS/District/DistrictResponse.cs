@@ -1,5 +1,6 @@
 ﻿using BPJ_U2T.DTOS.Review;
 using BPJ_U2T.Models;
+using BPJ_U2T.Settings;
 
 namespace BPJ_U2T.DTOS.District
 {
@@ -19,7 +20,7 @@ namespace BPJ_U2T.DTOS.District
                 ID = district.ID,
                 Name = district.Name,
                 TextDistrict= district.TextDistrict,
-                Image = !string.IsNullOrEmpty(district.Image) ? "https://localhost:7141/" + "images/" + district.Image : "",
+                Image = !string.IsNullOrEmpty(district.Image) ? UrlServer.Url + "images/" + district.Image : "",
 
             };
         }

@@ -33,6 +33,11 @@ app.UseAuthentication();
 //การอนุญาต
 app.UseAuthorization();
 
-app.MapControllers();
+
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapControllers();
+    endpoints.MapFallbackToController("Index", "Fallback"); // บอกเส้นทางมันก่อน
+});
 
 app.Run();

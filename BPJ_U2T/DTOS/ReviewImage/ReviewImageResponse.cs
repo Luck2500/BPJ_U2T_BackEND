@@ -1,4 +1,6 @@
-﻿namespace BPJ_U2T.DTOS.ImageReview
+﻿using BPJ_U2T.Settings;
+
+namespace BPJ_U2T.DTOS.ImageReview
 {
     public class ReviewImageResponse
     {
@@ -9,7 +11,7 @@
             return new ReviewImageResponse
             {
                 ID = reviewImage.ID,
-                Image = !string.IsNullOrEmpty(reviewImage.Image) ? "https://localhost:7141/" + "images/" + reviewImage.Image : "" ,
+                Image = !string.IsNullOrEmpty(reviewImage.Image) ? UrlServer.Url + "images/" + reviewImage.Image : "" ,
 
             };
         }

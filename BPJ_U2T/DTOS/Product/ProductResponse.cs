@@ -1,4 +1,5 @@
 ﻿using BPJ_U2T.Models;
+using BPJ_U2T.Settings;
 
 namespace BPJ_U2T.DTOS.Product
 {
@@ -25,7 +26,7 @@ namespace BPJ_U2T.DTOS.Product
                 Price = product.Price,
                 Stock = product.Stock,
                 Detailsinfo = product.Detailsinfo,
-                Image = !string.IsNullOrEmpty(product.Image) ? "https://localhost:7141/" + "images/" + product.Image : "",
+                Image = !string.IsNullOrEmpty(product.Image) ? UrlServer.Url + "images/" + product.Image : "",
                 CategoryProductID = product.CategoryProduct.Id,
                 CategoryName = product.CategoryProduct.Name,
                 DistrictID = product.District.ID,

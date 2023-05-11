@@ -5,7 +5,7 @@ namespace BPJ_U2T.DTOS.OrderAccount
     public class OrderDTO
     {
         public string ID { get; set; }
-        public PaymentStatus PaymentStatus { get; set; }
+        public PaymentStatus PaymentStatus { get; set; } = PaymentStatus.WaitingForPayment;
         public string? ProofOfPayment { get; set; }
         public DateTime Created { get; set; } = DateTime.Now;
         public int PriceTotal { get; set; }

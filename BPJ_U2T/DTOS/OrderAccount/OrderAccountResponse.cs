@@ -17,7 +17,7 @@ namespace BPJ_U2T.DTOS.OrderAccount
             return new OrderAccountResponse
             {
                 ID = orderAccount.ID,
-                //PaymentStatus = orderAccount.PaymentStatus,
+                PaymentStatus = orderAccount.PaymentStatus,
                 ProofOfPayment = orderAccount.ProofOfPayment,
                 //ProofOfPayment = !string.IsNullOrEmpty(orderAccount.ProofOfPayment) ? "https://localhost:7141/" + "images/" + orderAccount.ProofOfPayment : "",
                 PriceTotal = orderAccount.PriceTotal,

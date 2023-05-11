@@ -1,4 +1,6 @@
-﻿namespace BPJ_U2T.DTOS.ProductDescription
+﻿using BPJ_U2T.Settings;
+
+namespace BPJ_U2T.DTOS.ProductDescription
 {
     public class ProductDescriptionResponse
     {
@@ -15,7 +17,7 @@
                 ID = productDescription.ID,
                 ProductID = productDescription.ProductID,
                 //Image = productDescription.Image,
-                Image = !string.IsNullOrEmpty(productDescription.Image) ? "https://localhost:7141/" + "images/" + productDescription.Image : "",
+                Image = !string.IsNullOrEmpty(productDescription.Image) ? UrlServer.Url + "images/" + productDescription.Image : "",
 
             };
         }

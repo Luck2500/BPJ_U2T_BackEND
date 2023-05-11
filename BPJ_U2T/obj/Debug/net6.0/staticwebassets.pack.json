@@ -1,6 +1,82 @@
 {
   "Files": [
     {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\assets\\NotoSerifThai-VariableFont_wdth_wght-c4fd0645.ttf",
+      "PackagePath": "staticwebassets\\assets\\NotoSerifThai-VariableFont_wdth_wght-c4fd0645.ttf"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\assets\\ajax-loader-e7b44c86.gif",
+      "PackagePath": "staticwebassets\\assets\\ajax-loader-e7b44c86.gif"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\assets\\fontawesome-webfont-0fd28fec.woff",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-webfont-0fd28fec.woff"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\assets\\fontawesome-webfont-b751f81b.svg",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-webfont-b751f81b.svg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\assets\\glyphicons-halflings-regular-63faf0af.woff",
+      "PackagePath": "staticwebassets\\assets\\glyphicons-halflings-regular-63faf0af.woff"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\assets\\glyphicons-halflings-regular-cef3dffc.svg",
+      "PackagePath": "staticwebassets\\assets\\glyphicons-halflings-regular-cef3dffc.svg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\assets\\index-1c8d75bd.js",
+      "PackagePath": "staticwebassets\\assets\\index-1c8d75bd.js"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\assets\\index-644c602e.css",
+      "PackagePath": "staticwebassets\\assets\\index-644c602e.css"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\assets\\js\\activePage.js",
+      "PackagePath": "staticwebassets\\assets\\js\\activePage.js"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\assets\\js\\contact.js",
+      "PackagePath": "staticwebassets\\assets\\js\\contact.js"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\assets\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\assets\\js\\gmaps.js"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\assets\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\assets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\assets\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\assets\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\assets\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\assets\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\assets\\js\\price-range.js"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\assets\\slick-12459f22.svg",
+      "PackagePath": "staticwebassets\\assets\\slick-12459f22.svg"
+    },
+    {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\00800cbc-c6d9-407b-8537-8fccadc549de.jpg",
       "PackagePath": "staticwebassets\\images\\00800cbc-c6d9-407b-8537-8fccadc549de.jpg"
     },
@@ -15,6 +91,14 @@
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\05ee1ddd-0c31-46ca-9876-498866931d5e.jpg",
       "PackagePath": "staticwebassets\\images\\05ee1ddd-0c31-46ca-9876-498866931d5e.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\0610dc72-b2bd-4c27-9b42-75b0cac23eb5.jpg",
+      "PackagePath": "staticwebassets\\images\\0610dc72-b2bd-4c27-9b42-75b0cac23eb5.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\06d1132e-5a56-4dbb-a049-e1b17b68f7a6.jpg",
+      "PackagePath": "staticwebassets\\images\\06d1132e-5a56-4dbb-a049-e1b17b68f7a6.jpg"
     },
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\07b4336c-049a-4161-999a-1b63ef117f75.jpg",
@@ -161,6 +245,10 @@
       "PackagePath": "staticwebassets\\images\\21ae81c1-5ba3-4ce1-87cf-c0a15f8a51a9.jpg"
     },
     {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\22454bd3-90b8-4381-b92d-bf48c02db01e.jpg",
+      "PackagePath": "staticwebassets\\images\\22454bd3-90b8-4381-b92d-bf48c02db01e.jpg"
+    },
+    {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\22ce2338-c100-4c49-880e-cb6a468c073e.jpg",
       "PackagePath": "staticwebassets\\images\\22ce2338-c100-4c49-880e-cb6a468c073e.jpg"
     },
@@ -193,12 +281,24 @@
       "PackagePath": "staticwebassets\\images\\26525f27-e20d-4e66-b398-f044ac49160e.jpg"
     },
     {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\2676f06b-d475-40ab-a1e1-e1b523c5a917.jpg",
+      "PackagePath": "staticwebassets\\images\\2676f06b-d475-40ab-a1e1-e1b523c5a917.jpg"
+    },
+    {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\26b2af7c-a084-4675-8e45-3e86e4915e8b.jpg",
       "PackagePath": "staticwebassets\\images\\26b2af7c-a084-4675-8e45-3e86e4915e8b.jpg"
     },
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\26bfbf22-94a3-43a4-a1b6-25caba48e657.jpg",
       "PackagePath": "staticwebassets\\images\\26bfbf22-94a3-43a4-a1b6-25caba48e657.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\26e371c5-d947-4eb9-a5a5-825155e70b1c.jpg",
+      "PackagePath": "staticwebassets\\images\\26e371c5-d947-4eb9-a5a5-825155e70b1c.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\26f34007-3cca-48da-b3b4-e9a6a3c203d6.jpg",
+      "PackagePath": "staticwebassets\\images\\26f34007-3cca-48da-b3b4-e9a6a3c203d6.jpg"
     },
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\288360f6-c8a9-468f-b549-e155e9ca9c01.jpg",
@@ -225,6 +325,10 @@
       "PackagePath": "staticwebassets\\images\\30142330-7e86-4a38-b21c-f36bac8fb227.jpg"
     },
     {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\30ccf691-c8aa-4569-9836-0064cf3fd1f8.jpg",
+      "PackagePath": "staticwebassets\\images\\30ccf691-c8aa-4569-9836-0064cf3fd1f8.jpg"
+    },
+    {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\311cf1b9-fdbd-4b21-b077-bfcea5b1fbee.png",
       "PackagePath": "staticwebassets\\images\\311cf1b9-fdbd-4b21-b077-bfcea5b1fbee.png"
     },
@@ -235,6 +339,10 @@
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\3269c681-5e26-4eb9-aa3f-0abe4f4abfcc.jpg",
       "PackagePath": "staticwebassets\\images\\3269c681-5e26-4eb9-aa3f-0abe4f4abfcc.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\337feeb9-240d-4f0b-ba8c-59d699033015.jpg",
+      "PackagePath": "staticwebassets\\images\\337feeb9-240d-4f0b-ba8c-59d699033015.jpg"
     },
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\35cc9877-f22b-4ecc-82b1-d4b1a49e6663.jpg",
@@ -317,8 +425,16 @@
       "PackagePath": "staticwebassets\\images\\477ad870-7260-4e5c-a8bc-42f8c2a10fe2.png"
     },
     {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\484ad8c0-ed07-40ec-87af-7b40e68a0241.jpg",
+      "PackagePath": "staticwebassets\\images\\484ad8c0-ed07-40ec-87af-7b40e68a0241.jpg"
+    },
+    {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\48a2e686-0db1-4049-85a2-1b84a93e7490.jpg",
       "PackagePath": "staticwebassets\\images\\48a2e686-0db1-4049-85a2-1b84a93e7490.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\48a8a8a3-2472-40d8-a472-75aed3af10b2.jpg",
+      "PackagePath": "staticwebassets\\images\\48a8a8a3-2472-40d8-a472-75aed3af10b2.jpg"
     },
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\48e71939-681c-49ef-bb2e-57921101fd56.jpg",
@@ -331,6 +447,10 @@
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\49bd48ec-90e2-4887-9d94-033d2eb289ff.jpg",
       "PackagePath": "staticwebassets\\images\\49bd48ec-90e2-4887-9d94-033d2eb289ff.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\4a3eaf98-7afb-4967-9c71-333db12af448.jpg",
+      "PackagePath": "staticwebassets\\images\\4a3eaf98-7afb-4967-9c71-333db12af448.jpg"
     },
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\4c40591b-8369-459b-af32-3b807a7ade2e.jpg",
@@ -355,6 +475,10 @@
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\501faa5c-6093-4da6-9710-9fecd5ed9784.png",
       "PackagePath": "staticwebassets\\images\\501faa5c-6093-4da6-9710-9fecd5ed9784.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\50978788-0b9e-4e26-be6f-85cfe0dc5f5b.jpg",
+      "PackagePath": "staticwebassets\\images\\50978788-0b9e-4e26-be6f-85cfe0dc5f5b.jpg"
     },
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\50bf5fce-5e3b-48ad-b633-f9ac00014df6.jpg",
@@ -421,6 +545,10 @@
       "PackagePath": "staticwebassets\\images\\5d534352-4807-4f88-a490-09347c16a506.jpg"
     },
     {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\5e7d8f4f-e98c-4fe0-9999-a9752a5fa9c8.png",
+      "PackagePath": "staticwebassets\\images\\5e7d8f4f-e98c-4fe0-9999-a9752a5fa9c8.png"
+    },
+    {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\5eb8fb60-14f2-491f-969a-6a6095984f25.jpg",
       "PackagePath": "staticwebassets\\images\\5eb8fb60-14f2-491f-969a-6a6095984f25.jpg"
     },
@@ -447,6 +575,14 @@
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\62e3317c-dcd3-4ec4-bf85-a315312f63a7.jpg",
       "PackagePath": "staticwebassets\\images\\62e3317c-dcd3-4ec4-bf85-a315312f63a7.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\62fc745e-bdaa-4ffd-bcd7-f8b4cf200b38.jpg",
+      "PackagePath": "staticwebassets\\images\\62fc745e-bdaa-4ffd-bcd7-f8b4cf200b38.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\651271c3-be2a-48ca-b898-1d2eec3106f8.png",
+      "PackagePath": "staticwebassets\\images\\651271c3-be2a-48ca-b898-1d2eec3106f8.png"
     },
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\6732f811-d2cf-4b1c-b320-ad03ef7ef204.jpg",
@@ -553,6 +689,10 @@
       "PackagePath": "staticwebassets\\images\\80f6da84-189b-4c4f-82f0-4bf9a919d46e.png"
     },
     {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\816c658b-d4ba-4370-8130-32eaae38f363.jpg",
+      "PackagePath": "staticwebassets\\images\\816c658b-d4ba-4370-8130-32eaae38f363.jpg"
+    },
+    {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\82383e2d-1810-4e5f-866b-9abfdc051d5f.jpg",
       "PackagePath": "staticwebassets\\images\\82383e2d-1810-4e5f-866b-9abfdc051d5f.jpg"
     },
@@ -609,6 +749,10 @@
       "PackagePath": "staticwebassets\\images\\927ebc7f-7eaa-4bed-a9ad-f62f643c1ef9.png"
     },
     {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\9377472e-d5bc-46b9-8425-dcb1b4f26e4d.jpg",
+      "PackagePath": "staticwebassets\\images\\9377472e-d5bc-46b9-8425-dcb1b4f26e4d.jpg"
+    },
+    {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\93d74a9a-6556-4e47-8a8e-ffda45a6453d.jpg",
       "PackagePath": "staticwebassets\\images\\93d74a9a-6556-4e47-8a8e-ffda45a6453d.jpg"
     },
@@ -641,12 +785,20 @@
       "PackagePath": "staticwebassets\\images\\95ecec3c-cbe2-48de-844c-b9a332c77168.jpg"
     },
     {
-      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\96516480-1059-48b4-a4cd-cb935a3ccfa2.jpg",
-      "PackagePath": "staticwebassets\\images\\96516480-1059-48b4-a4cd-cb935a3ccfa2.jpg"
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\95eeede3-9801-42de-a0b6-8b751264bc6c.jpg",
+      "PackagePath": "staticwebassets\\images\\95eeede3-9801-42de-a0b6-8b751264bc6c.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\96137193-1214-436f-9018-9d1bdf3aaf72.jpg",
+      "PackagePath": "staticwebassets\\images\\96137193-1214-436f-9018-9d1bdf3aaf72.jpg"
     },
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\96ab8913-b408-4afa-b2a2-92b2c362c383.jpg",
       "PackagePath": "staticwebassets\\images\\96ab8913-b408-4afa-b2a2-92b2c362c383.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\9755f0f4-c0b1-4d25-979e-0e9bd181b578.jpg",
+      "PackagePath": "staticwebassets\\images\\9755f0f4-c0b1-4d25-979e-0e9bd181b578.jpg"
     },
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\975de29a-ff51-405f-bc90-0844546d40ad.jpg",
@@ -675,6 +827,10 @@
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\9b266bcc-bf75-4b46-9469-3734cef5d39d.jpg",
       "PackagePath": "staticwebassets\\images\\9b266bcc-bf75-4b46-9469-3734cef5d39d.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\9b443d30-cdce-4a43-9fa5-96ecf990fb6f.jpg",
+      "PackagePath": "staticwebassets\\images\\9b443d30-cdce-4a43-9fa5-96ecf990fb6f.jpg"
     },
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\9c8c2f65-d4b8-44cc-9c6f-b70882d48598.jpg",
@@ -769,6 +925,10 @@
       "PackagePath": "staticwebassets\\images\\ab0c3d35-94a0-4653-afc6-50ee4fa18de4.jpg"
     },
     {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\ab278325-7419-4069-9254-5af4d4383e8d.jpg",
+      "PackagePath": "staticwebassets\\images\\ab278325-7419-4069-9254-5af4d4383e8d.jpg"
+    },
+    {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\ac035153-c1ec-457e-a177-893f7280ff57.jpg",
       "PackagePath": "staticwebassets\\images\\ac035153-c1ec-457e-a177-893f7280ff57.jpg"
     },
@@ -791,6 +951,10 @@
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\ae66e7ac-429c-4f41-a9b8-eea03ef52c3d.png",
       "PackagePath": "staticwebassets\\images\\ae66e7ac-429c-4f41-a9b8-eea03ef52c3d.png"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\ae90ca01-9981-4363-992a-4f36aff8c248.png",
+      "PackagePath": "staticwebassets\\images\\ae90ca01-9981-4363-992a-4f36aff8c248.png"
     },
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\aed47fde-6d6d-4603-9a10-dc623c4dfcd3.jpg",
@@ -835,6 +999,10 @@
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\b55f4454-1a60-452b-a4e8-0d9b351ae622.jpg",
       "PackagePath": "staticwebassets\\images\\b55f4454-1a60-452b-a4e8-0d9b351ae622.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\b6cdbf81-1ca9-4794-832c-66b1b273a318.jpg",
+      "PackagePath": "staticwebassets\\images\\b6cdbf81-1ca9-4794-832c-66b1b273a318.jpg"
     },
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\b787111a-f307-411a-ae5a-50919bc79873.png",
@@ -905,6 +1073,10 @@
       "PackagePath": "staticwebassets\\images\\c5733cf2-0ac0-4d2e-ac9e-1f1bfe565727.jpg"
     },
     {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\c88d515e-e143-47fd-8984-0d285ca0a4f4.jpg",
+      "PackagePath": "staticwebassets\\images\\c88d515e-e143-47fd-8984-0d285ca0a4f4.jpg"
+    },
+    {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\c926f9dc-b271-48e5-9754-a58d5f1ced8a.jpg",
       "PackagePath": "staticwebassets\\images\\c926f9dc-b271-48e5-9754-a58d5f1ced8a.jpg"
     },
@@ -943,6 +1115,14 @@
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\d0e95bce-d06c-42aa-9384-9bef8060377b.jpg",
       "PackagePath": "staticwebassets\\images\\d0e95bce-d06c-42aa-9384-9bef8060377b.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\d2736352-ef26-4012-aaf8-0b872a703792.jpg",
+      "PackagePath": "staticwebassets\\images\\d2736352-ef26-4012-aaf8-0b872a703792.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\d4804c05-675f-4c2e-8b4f-5622f3319fdc.jpg",
+      "PackagePath": "staticwebassets\\images\\d4804c05-675f-4c2e-8b4f-5622f3319fdc.jpg"
     },
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\d733456d-2d54-4128-a428-338a5e418c10.jpg",
@@ -1029,8 +1209,16 @@
       "PackagePath": "staticwebassets\\images\\e26185cc-b0ac-4e19-aa5e-1f52a63bbdb1.jpg"
     },
     {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\e393fad6-29c5-4c94-b867-80642384d971.jpg",
+      "PackagePath": "staticwebassets\\images\\e393fad6-29c5-4c94-b867-80642384d971.jpg"
+    },
+    {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\e51cef04-34e2-42af-9761-c490e765189c.jpg",
       "PackagePath": "staticwebassets\\images\\e51cef04-34e2-42af-9761-c490e765189c.jpg"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\e707f193-6aab-4214-b175-60aed6b6681e.jpg",
+      "PackagePath": "staticwebassets\\images\\e707f193-6aab-4214-b175-60aed6b6681e.jpg"
     },
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\e7dc1c61-c9e8-4844-a44a-341fb4f88146.png",
@@ -1117,6 +1305,10 @@
       "PackagePath": "staticwebassets\\images\\faa5108c-245a-421f-a47b-6f08d2926789.png"
     },
     {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\fb6c5a60-487b-4d86-a1c6-734f56164252.png",
+      "PackagePath": "staticwebassets\\images\\fb6c5a60-487b-4d86-a1c6-734f56164252.png"
+    },
+    {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\images\\fca4e674-303d-4e66-943f-aca6e7b50a5e.jpg",
       "PackagePath": "staticwebassets\\images\\fca4e674-303d-4e66-943f-aca6e7b50a5e.jpg"
     },
@@ -1133,8 +1325,16 @@
       "PackagePath": "staticwebassets\\images\\ffb31f64-295e-414f-ad98-3e75951c500f.jpg"
     },
     {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\vedio\\03c972d8-8dae-4f0e-85f8-0886ddb94207.mp4",
       "PackagePath": "staticwebassets\\vedio\\03c972d8-8dae-4f0e-85f8-0886ddb94207.mp4"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\vedio\\0ec26133-fd75-4787-8106-6c172381b7ec.mp4",
+      "PackagePath": "staticwebassets\\vedio\\0ec26133-fd75-4787-8106-6c172381b7ec.mp4"
     },
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\vedio\\154918fe-e0cf-472e-be02-58dafd357e08.mp4",
@@ -1169,8 +1369,8 @@
       "PackagePath": "staticwebassets\\vedio\\a66ce6e4-2924-48d2-b23a-c956b39c9c26.mp4"
     },
     {
-      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\vedio\\c87f8253-7093-4d7a-86af-6e8395495f23.mp4",
-      "PackagePath": "staticwebassets\\vedio\\c87f8253-7093-4d7a-86af-6e8395495f23.mp4"
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\vedio\\ca521364-2f94-4de3-866e-0b18baac3f15.mp4",
+      "PackagePath": "staticwebassets\\vedio\\ca521364-2f94-4de3-866e-0b18baac3f15.mp4"
     },
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\vedio\\d6b08b29-7d86-4a79-88b6-038063be2b63.mp4",
@@ -1179,6 +1379,10 @@
     {
       "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\vedio\\eebb6543-5679-470c-9692-5319461e29c1.mp4",
       "PackagePath": "staticwebassets\\vedio\\eebb6543-5679-470c-9692-5319461e29c1.mp4"
+    },
+    {
+      "Id": "D:\\pjreact\\BPJ_U2T\\BPJ_U2T\\wwwroot\\vite.svg",
+      "PackagePath": "staticwebassets\\vite.svg"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BPJ_U2T.Microsoft.AspNetCore.StaticWebAssets.props",

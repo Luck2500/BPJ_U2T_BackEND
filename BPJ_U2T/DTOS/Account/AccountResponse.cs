@@ -1,4 +1,6 @@
-﻿namespace BPJ_U2T.DTOS.Account
+﻿using BPJ_U2T.Settings;
+
+namespace BPJ_U2T.DTOS.Account
 {
     public class AccountResponse
     {
@@ -18,7 +20,7 @@
             {
                 ID = account.ID,
                 Name = account.Name,
-                Image = !string.IsNullOrEmpty(account.Image) ? "https://localhost:7141/" + "images/" + account.Image : "",
+                Image = !string.IsNullOrEmpty(account.Image) ? UrlServer.Url + "images/" + account.Image : "",
                 Email = account.Email,
                 Password = account.Password,
                 PhoneNumber = account.PhoneNumber,
