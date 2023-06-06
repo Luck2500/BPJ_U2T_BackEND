@@ -49,7 +49,7 @@ namespace BPJ_U2T.Controllers
             return Ok(new { msg = "OK", data = AccountResponse.FromAccount(result), token});
         }
 
-        [HttpPut("[action]")]
+        [HttpPost("[action]")]
         public async Task<ActionResult<Account>> UpdateAccount(int id, [FromForm] RegisterRequest registerRequest)
         {
             var result = await accountService.GetByID(id);
@@ -97,7 +97,7 @@ namespace BPJ_U2T.Controllers
             return Ok(new { msg = "OK", data = account });
         }
 
-        [HttpDelete("[action]")]
+        [HttpPost("[action]")]
         public async Task<IActionResult> DeleteAccount(int id)
         {
             var result = await accountService.GetByID(id);

@@ -43,7 +43,7 @@ namespace BPJ_U2T.Controllers
             await productDetailProcessService.Create(detailProcess);
             return Ok(new { msg = "OK", data = detailProcess });
         }
-        [HttpDelete("[action]")]
+        [HttpPost("[action]")]
         public async Task<IActionResult> DeleteProductDetailProcess(int? idProduct)
         {
             var result = await productDetailProcessService.GetById(idProduct);
@@ -53,7 +53,7 @@ namespace BPJ_U2T.Controllers
             return Ok(new { msg = "OK", data = result });
         }
 
-        [HttpPut("[action]")]
+        [HttpPost("[action]")]
         public async Task<ActionResult<ProductDetailProcess>> UpdateProductDetailProcess([FromForm] ProductDetailProcessRequest detailProcessRequest)
         {
             var result = await productDetailProcessService.GetById(detailProcessRequest.ProductID);

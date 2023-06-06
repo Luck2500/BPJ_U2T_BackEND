@@ -4,6 +4,6 @@ namespace BPJ_U2T.Interfaces
 {
     public interface IReportService
     {
-        Task<SalesStatisticsDTO> SalesStatistics();
+        Task<SalesStatisticsDTO> SalesStatistics(int? date);
     }
 }

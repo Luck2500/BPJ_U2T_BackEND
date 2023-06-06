@@ -54,7 +54,7 @@ namespace BPJ_U2T.Controllers
             return Ok(new { msg = "OK", data = product });
         }
 
-        [HttpPut("[action]")]
+        [HttpPost("[action]")]
         public async Task<ActionResult<Product>> UpdateProduct([FromForm] ProductRequest productRequest)
         {
             var result = await productService.GetByID(productRequest.ID);
@@ -82,7 +82,7 @@ namespace BPJ_U2T.Controllers
             return Ok(new { msg = "OK", data = product });
         }
 
-        [HttpDelete("[action]")]
+        [HttpPost("[action]")]
         // [FromQuery] int id ใส่เต็มยศ
         public async Task<ActionResult<Product>> DeleteProduct([FromQuery] int id)
         {

@@ -45,7 +45,7 @@ namespace BPJ_U2T.Controllers
             if (result.Count() == 0) return Ok(new { msg = "ไม่พบรูป" });
             return Ok(new { msg = "OK", data = result });
         }
-        [HttpDelete("[action]")]
+        [HttpPost("[action]")]
         // [FromQuery] int id ใส่เต็มยศ
         public async Task<ActionResult<ProductDescription>> DeleteProductDescription([FromQuery] string id)
         {

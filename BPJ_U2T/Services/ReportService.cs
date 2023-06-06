@@ -13,12 +13,15 @@ namespace BPJ_U2T.Services
         {
             this.databaseContext = databaseContext;
         }
-
-        public async Task<SalesStatisticsDTO> SalesStatistics()
+        
+        public async Task<SalesStatisticsDTO> SalesStatistics(int? date)
         {
             SalesStatisticsDTO salesStatisticsDTO = new();
             List<OrderItem> orderItems = new();
-            var orders = await databaseContext.OrderAccounts.Where(e => e.ProofOfPayment != null && e.PaymentStatus == PaymentStatus.SuccessfulPayment).ToListAsync();
+            var orders = await databaseContext.OrderAccounts.Where(e => 
+            e.ProofOfPayment != null && e.PaymentStatus == PaymentStatus.SuccessfulPayment  &&
+            e.Created.Year == (date == 0 || date == null ? DateTime.Now.Year : date)
+            ).ToListAsync();
             foreach (var order in orders)
             {
                 var items = databaseContext.OrderItems

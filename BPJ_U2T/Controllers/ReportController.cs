@@ -17,9 +17,9 @@ namespace BPJ_U2T.Controllers
             this.reportService = reportService;
         }
         [HttpGet("[action]")]
-        public async Task<IActionResult> GetReport()
+        public async Task<IActionResult> GetReport(int? date)
         {
-            var result = await reportService.SalesStatistics();
+            var result = await reportService.SalesStatistics(date);
             return Ok(new { data = result });
 
         }

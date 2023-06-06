@@ -39,7 +39,7 @@ namespace BPJ_U2T.Controllers
             return Ok(new { msg = "OK" });
         }
 
-        [HttpPut("[action]")]
+        [HttpPost("[action]")]
         public async Task<IActionResult> UpdateCart([FromForm] CartRequest cartRequest)
         {
             var cart = await cartCustomerService.GetByID(cartRequest.ID);
@@ -52,7 +52,7 @@ namespace BPJ_U2T.Controllers
             return Ok(new { msg = "OK" });
         }
 
-        [HttpDelete("[action]")]
+        [HttpPost("[action]")]
         public async Task<IActionResult> DeleteCart(string id)
         {
             var result = await cartCustomerService.GetByID(id);

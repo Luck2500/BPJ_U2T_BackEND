@@ -42,7 +42,7 @@ namespace BPJ_U2T.Controllers
             return Ok(new { msg = "OK", data = result });
         }
 
-        [HttpPut("[action]")]
+        [HttpPost("[action]")]
         public async Task<IActionResult> ConfirmOrder([FromForm] ConfrimOrderAccountRequest confrimOrderAccountRequest)
         {
             List<OrderAccount> orderAccount = new List<OrderAccount>();
@@ -75,7 +75,7 @@ namespace BPJ_U2T.Controllers
             return Ok(data);
         }
 
-        [HttpPut("[action]")]
+        [HttpPost("[action]")]
         public async Task<IActionResult> PaymentOrder([FromForm] OrderPaymentRequest orderPaymentRequest)
         {
             var result = await orderAccountService.GetByID(orderPaymentRequest.ID);
